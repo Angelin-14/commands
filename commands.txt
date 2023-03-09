@@ -4,4 +4,8 @@ git add .
 git commit -m " First Commit"
 git remote add origin url 
 git push -u origin master
-git pull 
+git pull
+git status
+git log
+git checkout -b 'newbranchname'
+
