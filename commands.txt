@@ -1,4 +1,4 @@
-git clone url
+git clone url - Copy  Remote Repositories to Local
 git init
 git add .
 git commit -m " First Commit"
@@ -6,6 +6,14 @@ git remote add origin url
 git push -u origin master
 git pull
 git status
-git log
+git log  - Show no of commits                  
+git log branchB BranchA  - Show Commits on branchA Which is not in branchB
 git checkout -b 'newbranchname'
+git branch - Show Branches
+git branch branchname- To Create Branch
+git merge branchname - First  Switch to master Branch  and  the merge to merge files
+git diff branchB branchA - Show the diff of What is on BranchA Which is Not in BranchB
+git show - Show the objects Which is Human Readable Format
+
+
 
