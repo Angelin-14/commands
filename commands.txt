@@ -1,6 +1,4 @@
-git Clone
-
-git Clone url
+git clone url
 git init
 git add .
 git commit -m " First Commit"
