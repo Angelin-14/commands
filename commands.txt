@@ -1,1 +1,7 @@
-1) Git Clone
+git Clone url
+git init
+git add .
+git commit -m " First Commit"
+git remote add origin url 
+git push -u origin master
+
